@@ -37,7 +37,7 @@ public static void main(String ...args)
 	  int l2 = s2.length();
 	  int l3 = s3.length();
 	  int l4 = s4.length();
-	  System.out.println(l1+" "+l2+" "+l3+" "+l4);
+	  System.out.println("Length of Strings:-" +l1+" "+l2+" "+l3+" "+l4);
 
 	  char c1 = s1.charAt(2);
 	  char c2 = s2.charAt(2);
