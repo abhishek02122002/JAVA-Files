@@ -1,0 +1,8 @@
+
+
+-> Three types of error in java 
+     ->Runtime error / also known as exception ( done by user end)
+     ->Logica error
+     ->Syntax error
+
+-> We should be concerned over the handling about all the errors but here , Exception error is counted.
